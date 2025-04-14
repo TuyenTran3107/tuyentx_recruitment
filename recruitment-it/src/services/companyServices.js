@@ -1,4 +1,13 @@
-import { get } from "../utils/request";
+import { get, post } from "../utils/request";
+
+export const login = async (email, password = "") => {
+  let pw = "";
+  if (password !== "") {
+    pw = `password=${password}`;
+  }
+  const result = await get(`company?email=${email}&${pw}`);
+  return result;
+}
 
 export const getAllCompany = async () => {
   const res = await get("company");
@@ -12,6 +21,7 @@ export const checkExist = async (key, value) => {
   const result = await get(`company?${key}=${value}`);
   return result;
 }
-export const createCompany = async () => {
-
+export const createCompany = async (options) => {
+  const result = await post("company", options);
+  return result;
 }

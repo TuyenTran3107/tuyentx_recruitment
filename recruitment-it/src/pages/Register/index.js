@@ -12,18 +12,16 @@ function Register() {
     values.token = generateToken();
     const checkExistEmail = await checkExist("email", values.email);
     const checkExistPhone = await checkExist("phone", values.phone);
-    console.log(checkExistEmail, checkExistPhone)
     if (checkExistEmail.length > 0) {
-      messageApi.error("Email đã tồn tại!")
+      messageApi.error({ message: "Email đã tồn tại!" })
     } else if (checkExistPhone.length > 0) {
-      messageApi.error("Số điện thoại đã tồn tại!")
+      messageApi.error({ message: "Số điện thoại đã tồn tại!" })
     } else {
       const result = await createCompany(values);
       if (result) {
         navigate("/login");
       }
     }
-    console.log(values)
   }
   return (
     <>

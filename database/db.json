@@ -469,6 +469,14 @@
       "quantityPeople": 60,
       "description": "MNO là hệ thống thương mại điện tử chuyên phân phối sản phẩm tiêu dùng nhanh. Với mạng lưới rộng khắp cả nước, chúng tôi phục vụ hàng triệu khách hàng mỗi tháng. Ứng dụng công nghệ AI và big data để cá nhân hóa trải nghiệm mua sắm. Cam kết giao hàng nhanh, chất lượng đảm bảo và dịch vụ tận tâm. Làm việc tại MNO là cơ hội để phát triển cùng ngành thương mại số.",
       "detail": "Cơ chế KPI rõ ràng, thưởng doanh thu hàng tháng. Chính sách bảo hiểm mở rộng, hỗ trợ khám sức khỏe định kỳ. Văn hóa phục vụ khách hàng là trọng tâm. Văn phòng trẻ trung, làm việc nhóm cao, công cụ hiện đại. Tổ chức sinh nhật, liên hoan, team building mỗi quý."
+    },
+    {
+      "id": "4457",
+      "companyName": "tech Company",
+      "email": "ssghjsh@gmail.com",
+      "phone": "01234567",
+      "password": "1234",
+      "token": "G2nXYINiGTLMNu0Rt8M8"
     }
   ]
 }

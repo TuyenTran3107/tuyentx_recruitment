@@ -1,0 +1,474 @@
+{
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội",
+      "id": "bb28"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh",
+      "id": "cbf9"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng",
+      "id": "9cc7"
+    },
+    {
+      "key": 4,
+      "value": "Hải Phòng",
+      "id": "f6ac"
+    },
+    {
+      "key": 5,
+      "value": "Huế",
+      "id": "92fe"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML",
+      "id": "0196"
+    },
+    {
+      "key": 2,
+      "value": "CSS",
+      "id": "333f"
+    },
+    {
+      "key": 3,
+      "value": "Javascript",
+      "id": "f8a2"
+    },
+    {
+      "key": 4,
+      "value": "Database",
+      "id": "69f0"
+    },
+    {
+      "key": 5,
+      "value": "JSON",
+      "id": "8cbc"
+    },
+    {
+      "key": 6,
+      "value": "PHP",
+      "id": "91cd"
+    },
+    {
+      "key": 7,
+      "value": "Python",
+      "id": "1975"
+    },
+    {
+      "key": 8,
+      "value": "Java",
+      "id": "fbe0"
+    },
+    {
+      "key": 9,
+      "value": "SQL",
+      "id": "3dda"
+    },
+    {
+      "key": 10,
+      "value": "Angular",
+      "id": "8872"
+    },
+    {
+      "key": 11,
+      "value": "NodeJS",
+      "id": "332f"
+    },
+    {
+      "key": 12,
+      "value": "ReactJS",
+      "id": "2289"
+    },
+    {
+      "key": 13,
+      "value": "VueJS",
+      "id": "baac"
+    },
+    {
+      "key": 14,
+      "value": "Django",
+      "id": "e1a4"
+    },
+    {
+      "key": 15,
+      "value": "JQuery",
+      "id": "062c"
+    },
+    {
+      "key": 16,
+      "value": "TypeScript",
+      "id": "07f0"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "idCompany": 1,
+      "name": "Front-end Developer",
+      "tags": [
+        "HTML",
+        "CSS",
+        "ReactJS"
+      ],
+      "salary": "1000-1500 USD",
+      "description": "Top 3 Reasons To Join Us\nChance to grow up in your career path\nTalented and enthusiastic colleagues.\nAmazing new tech in Bigdata & AI\nJob Description\nTechcom Securities (TCBS) is seeking for a Front-end Developer to join our IT team based in Hanoi office. An ideal Front End Engineer would have 3+ years of experience in building highly scalable UI on the Web/Mobile.\nThis is your chance to become part of the leading innovative and reputable investment banking team in Vietnam!\n\nWe are looking for passionate, talented, and highly motivated hands-on Front End Developers with a creative edge, strong problem solving skills and strong on development fundamentals. We strive to maintain an open culture where everyone is a contributor and feels comfortable sharing ideas and opinions. Our team, drawn from the best product companies, is obsessive in its details to deliver an awesome User Interaction.\n\nYour Skills and Experience\nRequired Skills:\n\nHighly skilled at front-end engineering using Object-Oriented JavaScript, various JavaScript libraries and micro frameworks (Angular/React.js Prototype, Backbone), HTML and CSS\nWell versed in software engineering principles, frameworks and technologies\nExcellent communication skills\nSelf-directed team player who thrives in a continually changing environment\nShould Have:\n\nBuilds web/mobile software applications Follows coding standards, builds appropriate unit tests, integration tests and deployment scripts\nAssists in defining architectures Collaborates with teams to evaluate existing systems, determines areas of complexity and learns the applications capabilities\nOwns success Takes responsibility for successful delivery of the solutions\nCommunicates continually with the project teams\nExplains progress on the development effort\nConverts designs and style guides provided by the UI/UX team into functional user interfaces, ensuring cross browser compatibility and performance\nContributes to continual improvement by suggesting improvements to user interface, software architecture or use of new technologies\nNice to have:\n\nUnderstanding of internal code library (jQuery or any other)\nSome record of contribution to any front end open source project.\nWhy You'll Love Working Here\n- Review lương 1 lần/ năm\n\nCán bộ nhân viên sẽ có từ 12- 15 ngày phép/ năm \n\n- Bảo hiểm AON cho Cán bộ nhân viên\n\n- Công ty có các CLB thể thao sinh hoạt hằng tuần (đá bóng, cầu lông, bơi lội..)",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "12-04-2023 09:30:45",
+      "updateAt": "15-04-2023 14:20:18"
+    },
+    {
+      "id": "2",
+      "idCompany": 2,
+      "name": "Backend Developer",
+      "tags": [
+        "NodeJS",
+        "SQL",
+        "Python"
+      ],
+      "salary": "1200-1800 USD",
+      "description": "Top 3 Reasons To Join Us\nFast-growing tech company with endless opportunities\nCompetitive compensation package\nFlexible working arrangements\nJob Description\nWe are looking for a skilled Backend Developer to join our engineering team. You will be responsible for developing and maintaining our server-side applications, ensuring high performance and responsiveness to front-end requests.\n\nAs a Backend Developer at our company, you will work closely with our front-end developers, product managers, and QA teams to build robust and scalable applications that deliver exceptional user experiences.\n\nYour Skills and Experience\nRequired Skills:\n\nStrong proficiency in NodeJS, Python, or similar backend technologies\nExperience with database design and management (SQL and NoSQL)\nKnowledge of web services, RESTful APIs, and microservices architecture\nFamiliarity with version control systems (Git)\nExcellent problem-solving abilities\nShould Have:\n\nImplements server-side logic and integrates with front-end applications\nDesigns and maintains database schemas\nEnsures application security and data protection\nOptimizes applications for maximum speed and scalability\nCollaborates with cross-functional teams to define, design, and ship new features\nParticipates in code reviews and maintains code quality\nNice to have:\n\nExperience with cloud platforms (AWS, Azure, GCP)\nKnowledge of containerization tools like Docker and Kubernetes\nUnderstanding of CI/CD pipelines\nWhy You'll Love Working Here\n- Lương thưởng cạnh tranh theo năng lực\n\n- Chế độ bảo hiểm sức khỏe cao cấp\n\n- Môi trường làm việc trẻ trung, năng động\n\n- Cơ hội đào tạo và phát triển nghề nghiệp",
+      "status": true,
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "createAt": "15-04-2023 11:45:22",
+      "updateAt": "18-04-2023 16:30:10"
+    },
+    {
+      "id": "3",
+      "idCompany": 3,
+      "name": "Full-stack Developer",
+      "tags": [
+        "Javascript",
+        "ReactJS",
+        "NodeJS"
+      ],
+      "salary": "1500-2200 USD",
+      "description": "Top 3 Reasons To Join Us\nWork on cutting-edge technologies and innovative projects\nInternational working environment with diverse teams\nComprehensive benefits package including health insurance and stock options\nJob Description\nWe are seeking a talented Full-stack Developer to join our dynamic team. The ideal candidate will have experience in both frontend and backend development, with the ability to work across the entire technology stack.\n\nAs a Full-stack Developer, you will be involved in the complete development lifecycle, from concept and design to testing and deployment. You will contribute to the architecture and implementation of new features, as well as maintenance and improvement of existing functionality.\n\nYour Skills and Experience\nRequired Skills:\n\nProficiency in JavaScript, with expertise in both frontend (React/Angular) and backend (Node.js) technologies\nStrong understanding of web development principles and best practices\nExperience with database systems (SQL and NoSQL)\nFamiliarity with version control systems (Git) and agile development methodologies\nExcellent problem-solving and communication skills\nShould Have:\n\nDevelops and maintains both client and server-side applications\nImplements responsive design and ensures cross-browser compatibility\nIntegrates frontend and backend components\nOptimizes applications for maximum performance and scalability\nCollaborates with designers, product managers, and other developers\nParticipates in code reviews and maintains code quality standards\nNice to have:\n\nExperience with cloud platforms (AWS, Azure, GCP)\nKnowledge of DevOps practices and tools\nUnderstanding of containerization (Docker, Kubernetes)\nWhy You'll Love Working Here\n- Chế độ làm việc linh hoạt (WFH 2 ngày/tuần)\n\n- Lương thưởng cạnh tranh, review 2 lần/năm\n\n- Cơ hội đi onsite các nước Châu Á và Châu Âu\n\n- Nhiều hoạt động team building và sự kiện công ty hấp dẫn",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Đà Nẵng"
+      ],
+      "createAt": "18-04-2023 08:15:30",
+      "updateAt": "20-04-2023 10:25:40"
+    },
+    {
+      "id": "4",
+      "idCompany": 1,
+      "name": "DevOps Engineer",
+      "tags": [
+        "Python",
+        "Database",
+        "JSON"
+      ],
+      "salary": "1800-2500 USD",
+      "description": "Top 3 Reasons To Join Us\nWork with latest cloud technologies and automation tools\nFlat organizational structure with direct impact on infrastructure decisions\nCompetitive salary package with performance bonuses\nJob Description\nWe are looking for a skilled DevOps Engineer to help us build and maintain our cloud infrastructure and deployment pipelines. The ideal candidate will have a strong background in system administration, cloud technologies, and automation.\n\nAs a DevOps Engineer at our company, you will bridge the gap between development and operations, implementing CI/CD pipelines, monitoring systems, and ensuring the reliability and scalability of our infrastructure.\n\nYour Skills and Experience\nRequired Skills:\n\nExperience with cloud platforms (AWS, GCP, or Azure)\nProficiency in scripting and automation (Python, Bash)\nKnowledge of containerization (Docker) and orchestration (Kubernetes)\nFamiliarity with CI/CD tools (Jenkins, GitLab CI, GitHub Actions)\nUnderstanding of infrastructure as code (Terraform, CloudFormation)\nShould Have:\n\nImplements and maintains CI/CD pipelines\nManages cloud infrastructure and resources\nMonitors system performance and ensures high availability\nTroubleshoots production issues and implements preventive measures\nCollaborates with development teams to improve deployment processes\nImplements security best practices across the infrastructure\nNice to have:\n\nExperience with database administration\nKnowledge of networking concepts and security principles\nFamiliarity with monitoring tools (Prometheus, Grafana)\nWhy You'll Love Working Here\n- Chế độ làm việc linh hoạt\n\n- Cơ hội học tập và phát triển với các công nghệ mới nhất\n\n- Package đãi ngộ hấp dẫn bao gồm lương cơ bản cạnh tranh và thưởng dự án\n\n- Các hoạt động team building và văn hóa công ty đa dạng",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "20-04-2023 14:22:12",
+      "updateAt": "25-04-2023 09:10:15"
+    },
+    {
+      "id": "5",
+      "idCompany": 2,
+      "name": "Mobile Developer",
+      "tags": [
+        "Java",
+        "TypeScript",
+        "SQL"
+      ],
+      "salary": "1300-1900 USD",
+      "description": "Top 3 Reasons To Join Us\nOpportunity to work on apps used by millions of users\nRegular tech talks and knowledge sharing sessions\nGenerous compensation and benefits package\nJob Description\nWe are seeking a talented Mobile Developer to join our growing team. The ideal candidate will have experience in developing mobile applications for iOS and/or Android platforms and be passionate about creating exceptional user experiences.\n\nAs a Mobile Developer, you will be responsible for developing and maintaining our mobile applications, collaborating with cross-functional teams, and ensuring high-quality, performant code.\n\nYour Skills and Experience\nRequired Skills:\n\nProficiency in mobile development (iOS with Swift/Objective-C or Android with Java/Kotlin)\nExperience with RESTful APIs and data parsing\nStrong understanding of mobile UI/UX design principles\nFamiliarity with version control systems (Git)\nProblem-solving mindset and attention to detail\nShould Have:\n\nDevelops and maintains mobile applications for iOS or Android platforms\nImplements responsive and intuitive user interfaces\nIntegrates frontend components with server-side logic\nOptimizes applications for performance and usability\nCollaborates with designers, product managers, and backend developers\nParticipates in code reviews and maintains code quality\nNice to have:\n\nExperience with cross-platform development frameworks (React Native, Flutter)\nKnowledge of mobile app security best practices\nFamiliarity with mobile app analytics and performance monitoring tools\nWhy You'll Love Working Here\n- Lương thưởng hấp dẫn theo năng lực\n\n- Chế độ bảo hiểm sức khỏe toàn diện\n\n- Môi trường làm việc chuyên nghiệp, văn phòng hiện đại\n\n- Cơ hội đào tạo và phát triển kỹ năng liên tục",
+      "status": true,
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "createAt": "22-04-2023 10:40:36",
+      "updateAt": "28-04-2023 15:50:27"
+    },
+    {
+      "id": "6",
+      "idCompany": 3,
+      "name": "QA Engineer",
+      "tags": [
+        "SQL",
+        "Python",
+        "Javascript"
+      ],
+      "salary": "1000-1600 USD",
+      "description": "Top 3 Reasons To Join Us\nKey role in ensuring product quality and customer satisfaction\nExposure to diverse projects and technologies\nClear career progression path with regular performance reviews\nJob Description\nWe are looking for a detailed-oriented QA Engineer to join our quality assurance team. The ideal candidate will have a keen eye for detail, strong analytical skills, and a passion for ensuring software quality.\n\nAs a QA Engineer, you will be responsible for developing and executing test plans, identifying and documenting bugs, and working closely with developers to ensure that our products meet the highest quality standards.\n\nYour Skills and Experience\nRequired Skills:\n\nExperience in software testing methodologies (manual and automated)\nKnowledge of test management and bug tracking tools (JIRA, TestRail)\nFamiliarity with SQL and database concepts\nStrong analytical and problem-solving skills\nExcellent attention to detail and communication abilities\nShould Have:\n\nDevelops and executes test plans and test cases\nPerforms manual and automated testing of applications\nIdentifies, documents, and tracks bugs and issues\nVerifies fixes and performs regression testing\nCollaborates with developers and product managers to understand requirements\nProvides feedback on product quality and user experience\nNice to have:\n\nExperience with automated testing frameworks (Selenium, Cypress)\nKnowledge of performance and security testing\nUnderstanding of CI/CD pipelines and DevOps practices\nWhy You'll Love Working Here\n- Chế độ lương thưởng cạnh tranh, review định kỳ\n\n- Bảo hiểm sức khỏe cho nhân viên và người thân\n\n- Môi trường làm việc trẻ trung, năng động\n\n- Nhiều cơ hội thăng tiến trong sự nghiệp QA",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "25-04-2023 08:30:20",
+      "updateAt": "29-04-2023 11:45:38"
+    },
+    {
+      "id": "7",
+      "idCompany": 1,
+      "name": "UI/UX Designer",
+      "tags": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "salary": "1200-1800 USD",
+      "description": "Top 3 Reasons To Join Us\nCreate impactful designs used by thousands of users daily\nCollaborate with a talented and creative design team\nWork-life balance with flexible working arrangements\nJob Description\nWe are seeking a creative and user-focused UI/UX Designer to join our product team. The ideal candidate will have a strong portfolio demonstrating excellent visual design skills and a deep understanding of user-centered design principles.\n\nAs a UI/UX Designer, you will be responsible for creating intuitive, engaging user interfaces and experiences for our web and mobile applications, working closely with product managers and developers to bring your designs to life.\n\nYour Skills and Experience\nRequired Skills:\n\nStrong portfolio showcasing UI/UX design work\nProficiency in design tools (Figma, Sketch, Adobe XD)\nKnowledge of design principles, typography, and color theory\nExperience in user research and usability testing\nUnderstanding of HTML, CSS, and responsive design principles\nShould Have:\n\nCreates wireframes, prototypes, and high-fidelity designs\nConducts user research and usability testing\nDesigns intuitive and engaging user interfaces\nDevelops design systems and style guides\nCollaborates with developers to ensure accurate implementation\nStays current with design trends and best practices\nNice to have:\n\nBasic understanding of frontend development\nExperience with animation and interaction design\nKnowledge of accessibility standards (WCAG)\nWhy You'll Love Working Here\n- Môi trường làm việc sáng tạo, thân thiện\n\n- Cơ hội được làm việc với các dự án lớn, đa dạng ngành nghề\n\n- Chính sách đãi ngộ hấp dẫn, thưởng dự án\n\n- Các hoạt động nâng cao kỹ năng chuyên môn thường xuyên",
+      "status": true,
+      "city": [
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "createAt": "26-04-2023 09:15:42",
+      "updateAt": "30-04-2023 13:20:55"
+    },
+    {
+      "id": "8",
+      "idCompany": 2,
+      "name": "Data Scientist",
+      "tags": [
+        "Python",
+        "SQL",
+        "TypeScript"
+      ],
+      "salary": "2000-2800 USD",
+      "description": "Top 3 Reasons To Join Us\nWork with large, complex datasets to solve real-world problems\nAccess to cutting-edge ML/AI tools and technologies\nCompetitive compensation with performance-based bonuses\nJob Description\nWe are looking for a skilled Data Scientist to join our analytics team. The ideal candidate will have strong statistical and mathematical skills, programming abilities, and a passion for extracting insights from data.\n\nAs a Data Scientist at our company, you will work on developing and implementing machine learning models, analyzing complex datasets, and providing actionable insights to drive business decisions.\n\nYour Skills and Experience\nRequired Skills:\n\nProficiency in Python and data analysis libraries (Pandas, NumPy, SciPy)\nExperience with machine learning frameworks (Scikit-learn, TensorFlow, PyTorch)\nStrong SQL skills for data extraction and manipulation\nUnderstanding of statistical analysis and modeling techniques\nExcellent problem-solving and analytical thinking abilities\nShould Have:\n\nDevelops and implements machine learning models\nAnalyzes large and complex datasets to extract insights\nCommunicates findings and recommendations to stakeholders\nCollaborates with engineering teams to implement data-driven solutions\nStays current with the latest advances in data science and machine learning\nParticipates in defining data requirements and collection strategies\nNice to have:\n\nExperience with big data technologies (Hadoop, Spark)\nKnowledge of data visualization tools (Tableau, Power BI)\nFamiliarity with cloud platforms (AWS, GCP, Azure)\nWhy You'll Love Working Here\n- Cơ hội làm việc với các dự án data lớn và đầy thách thức\n\n- Package lương thưởng hấp dẫn, cạnh tranh với thị trường\n\n- Môi trường làm việc quốc tế, đa văn hóa\n\n- Chính sách phúc lợi toàn diện bao gồm bảo hiểm sức khỏe cao cấp",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "27-04-2023 11:05:38",
+      "updateAt": "02-05-2023 14:30:22"
+    },
+    {
+      "id": "9",
+      "idCompany": 3,
+      "name": "Product Manager",
+      "tags": [
+        "HTML",
+        "SQL",
+        "JSON"
+      ],
+      "salary": "2500-3500 USD",
+      "description": "Top 3 Reasons To Join Us\nDrive product strategy and development for innovative solutions\nWork with cross-functional teams across the organization\nCompetitive compensation package with equity options\nJob Description\nWe are seeking an experienced Product Manager to join our team. The ideal candidate will have a strong technical background, excellent communication skills, and a track record of successfully delivering products that meet customer needs.\n\nAs a Product Manager, you will be responsible for defining product vision and strategy, gathering and prioritizing requirements, and working closely with engineering, design, and marketing teams to ensure successful product delivery.\n\nYour Skills and Experience\nRequired Skills:\n\nExperience in product management or related role\nStrong technical background with understanding of software development\nExcellent communication and stakeholder management skills\nData-driven approach to decision making\nStrategic thinking and problem-solving abilities\nShould Have:\n\nDefines product vision, strategy, and roadmap\nGathers and prioritizes product requirements\nWorks with engineering teams to deliver features\nAnalyzes market and competitive landscape\nCommunicates product value to stakeholders and customers\nMeasures product performance and identifies areas for improvement\nNice to have:\n\nExperience with agile development methodologies\nKnowledge of UX design principles\nFamiliarity with technical writing and documentation\nWhy You'll Love Working Here\n- Cơ hội định hướng sản phẩm và tạo tác động lớn đến người dùng\n\n- Chế độ lương thưởng hấp dẫn, bao gồm lương cơ bản và thưởng theo hiệu suất\n\n- Môi trường làm việc năng động, khuyến khích sáng tạo và đổi mới\n\n- Cơ hội phát triển sự nghiệp với lộ trình thăng tiến rõ ràng",
+      "status": false,
+      "city": [
+        "Hà Nội",
+        "Đà Nẵng"
+      ],
+      "createAt": "28-04-2023 14:25:50",
+      "updateAt": "03-05-2023 09:40:15"
+    },
+    {
+      "id": "10",
+      "idCompany": 1,
+      "name": "Security Engineer",
+      "tags": [
+        "Python",
+        "Database",
+        "Javascript"
+      ],
+      "salary": "2000-3000 USD",
+      "description": "Top 3 Reasons To Join Us\nBe at the forefront of cybersecurity challenges and solutions\nContinuous learning and professional development opportunities\nCompetitive compensation and comprehensive benefits package\nJob Description\nWe are looking for a skilled Security Engineer to join our cybersecurity team. The ideal candidate will have a strong background in information security, with experience in identifying and mitigating security risks.\n\nAs a Security Engineer, you will be responsible for implementing security measures, conducting security assessments, and responding to security incidents to ensure the protection of our systems and data.\n\nYour Skills and Experience\nRequired Skills:\n\nExperience in information security or related field\nKnowledge of security frameworks and best practices (NIST, ISO 27001)\nFamiliarity with network security, encryption, and authentication mechanisms\nUnderstanding of common security vulnerabilities and threats\nProblem-solving skills and attention to detail\nShould Have:\n\nImplements security measures and controls\nConducts security assessments and penetration testing\nMonitors systems for security breaches and responds to incidents\nDevelops and maintains security documentation and policies\nCollaborates with IT and development teams on security matters\nStays current with emerging security threats and countermeasures\nNice to have:\n\nSecurity certifications (CISSP, CEH, OSCP)\nExperience with cloud security (AWS, Azure, GCP)\nKnowledge of compliance requirements (GDPR, HIPAA, PCI DSS)\nWhy You'll Love Working Here\n- Cơ hội làm việc với các công nghệ bảo mật hàng đầu\n\n- Chính sách lương thưởng cạnh tranh với thị trường\n\n- Chế độ phúc lợi đầy đủ, bảo hiểm sức khỏe cho nhân viên và gia đình\n\n- Môi trường làm việc chuyên nghiệp, cân bằng giữa công việc và cuộc sống",
+      "status": true,
+      "city": [
+        "Hồ Chí Minh",
+        "Hà Nội"
+      ],
+      "createAt": "01-05-2023 08:45:30",
+      "updateAt": "05-05-2023 15:20:45"
+    },
+    {
+      "id": "11",
+      "idCompany": 2,
+      "name": "Database Administrator",
+      "tags": [
+        "SQL",
+        "Database",
+        "Python"
+      ],
+      "salary": "1500-2200 USD",
+      "description": "Top 3 Reasons To Join Us\nWork with large-scale, high-performance database systems\nFlexible working arrangements and work-life balance\nClear career progression path with regular performance reviews\nJob Description\nWe are seeking a skilled Database Administrator to join our IT team. The ideal candidate will have experience in managing and optimizing database systems, ensuring data integrity, and implementing effective backup and recovery strategies.\n\nAs a Database Administrator, you will be responsible for the design, implementation, maintenance, and performance of our database systems, as well as ensuring data security and availability.\n\nYour Skills and Experience\nRequired Skills:\n\nExperience with relational database management systems (MySQL, PostgreSQL, Oracle, SQL Server)\nStrong SQL knowledge and database design skills\nUnderstanding of database performance tuning and optimization techniques\nFamiliarity with backup, recovery, and security procedures\nProblem-solving abilities and attention to detail\nShould Have:\n\nDesigns, implements, and maintains database systems\nMonitors database performance and optimizes as needed\nImplements backup and recovery procedures\nEnsures data security and integrity\nTroubleshoots database issues and performs root cause analysis\nCollaborates with development teams on database-related matters\nNice to have:\n\nKnowledge of NoSQL databases (MongoDB, Cassandra)\nExperience with data warehousing and business intelligence tools\nFamiliarity with cloud database services (AWS RDS, Azure SQL, GCP Cloud SQL)\nWhy You'll Love Working Here\n- Cơ hội làm việc với hệ thống database lớn và đầy thách thức\n\n- Chế độ làm việc linh hoạt (WFH 2 ngày/tuần)\n\n- Lương thưởng cạnh tranh, review định kỳ\n\n- Các hoạt động team building và đào tạo chuyên môn thường xuyên",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "02-05-2023 10:15:25",
+      "updateAt": "06-05-2023 13:45:50"
+    },
+    {
+      "id": "12",
+      "idCompany": 3,
+      "name": "System Administrator",
+      "tags": [
+        "Database",
+        "Javascript",
+        "Python"
+      ],
+      "salary": "1300-2000 USD",
+      "description": "Top 3 Reasons To Join Us\nWork with diverse technologies and infrastructure\nContinuous learning and professional development opportunities\nCompetitive compensation and flexible working arrangements\nJob Description\nWe are looking for a skilled System Administrator to join our IT team. The ideal candidate will have experience in managing and maintaining computer systems and networks, ensuring high availability, performance, and security.\n\nAs a System Administrator, you will be responsible for the installation, configuration, and maintenance of our server hardware and software, as well as troubleshooting issues and implementing security measures.\n\nYour Skills and Experience\nRequired Skills:\n\nExperience in system administration (Windows, Linux/Unix)\nKnowledge of networking concepts and protocols\nFamiliarity with virtualization technologies (VMware, Hyper-V)\nUnderstanding of security best practices and disaster recovery procedures\nProblem-solving abilities and attention to detail\nShould Have:\n\nInstalls, configures, and maintains server hardware and software\nMonitors system performance and resolves issues\nImplements security measures and ensures data backup\nManages user accounts and access permissions\nDocuments system configurations and procedures\nCollaborates with IT teams on infrastructure projects\nNice to have:\n\nExperience with cloud platforms (AWS, Azure, GCP)\nKnowledge of automation and scripting (PowerShell, Bash, Python)\nFamiliarity with monitoring tools (Nagios, Zabbix, Prometheus)\nWhy You'll Love Working Here\n- Môi trường làm việc chuyên nghiệp, nhiều cơ hội học hỏi\n\n- Chế độ lương thưởng cạnh tranh, review định kỳ\n\n- Bảo hiểm sức khỏe toàn diện cho nhân viên\n\n- Các hoạt động team building và sự kiện công ty thường xuyên",
+      "status": true,
+      "city": [
+        "Đà Nẵng",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "03-05-2023 09:20:15",
+      "updateAt": "07-05-2023 11:30:40"
+    },
+    {
+      "id": "13",
+      "idCompany": 1,
+      "name": "Machine Learning Engineer",
+      "tags": [
+        "Python",
+        "TypeScript",
+        "SQL"
+      ],
+      "salary": "2200-3200 USD",
+      "description": "Top 3 Reasons To Join Us\nWork on cutting-edge AI and ML projects with real-world impact\nAccess to state-of-the-art computing resources and datasets\nCompetitive compensation package with performance bonuses\nJob Description\nWe are seeking a talented Machine Learning Engineer to join our AI team. The ideal candidate will have a strong background in machine learning, deep learning, and software engineering, with a passion for solving complex problems using AI.\n\nAs a Machine Learning Engineer, you will be responsible for designing and implementing machine learning models, deploying them to production, and continuously improving their performance to drive business outcomes.\n\nYour Skills and Experience\nRequired Skills:\n\nStrong background in machine learning and deep learning techniques\nProficiency in Python and ML frameworks (TensorFlow, PyTorch, Scikit-learn)\nExperience with data processing and analysis\nSolid software engineering skills\nProblem-solving abilities and analytical thinking\nShould Have:\n\nDesigns and implements machine learning models\nPreprocesses and analyzes data for model training\nDeploys models to production environments\nMonitors and improves model performance\nCollaborates with data scientists and engineers\nStays current with the latest advances in machine learning and AI\nNice to have:\n\nExperience with NLP, computer vision, or reinforcement learning\nKnowledge of MLOps and model deployment pipelines\nFamiliarity with cloud ML services (AWS SageMaker, Azure ML, GCP AI Platform)\nWhy You'll Love Working Here\n- Cơ hội làm việc với các dự án AI/ML tiên tiến\n\n- Môi trường làm việc sáng tạo và đầy thách thức\n\n- Chế độ lương thưởng hấp dẫn, cạnh tranh với thị trường\n\n- Cân bằng giữa công việc và cuộc sống với chính sách làm việc linh hoạt",
+      "status": true,
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "createAt": "04-05-2023 14:10:30",
+      "updateAt": "08-05-2023 16:25:45"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "",
+      "createAt": "29-04-2023 10:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "2",
+      "idCompany": 2,
+      "idJob": 3,
+      "name": "Nguyen Van B",
+      "phone": "0987654321",
+      "email": "nguyenb@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Nguyen Van B. Tôi đang quan tâm đến vị trí...",
+      "linkProject": "",
+      "createAt": "30-04-2023 14:20:00",
+      "city": "TP. Hồ Chí Minh"
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "companyName": "Công ty ABC",
+      "phone": "0935324245",
+      "email": "contact@abc.com",
+      "password": "123456",
+      "token": "PwYhBgkNOANJtkJ7WHz",
+      "address": "123 đường Trần Phú",
+      "workingTime": "T2 - T7",
+      "website": "https://abc.com",
+      "quantityPeople": 8,
+      "description": "Công ty ABC là một trong những ngân hàng hàng đầu tại Việt Nam. Chúng tôi không ngừng đổi mới để mang lại giá trị tối ưu cho khách hàng. Đội ngũ nhân sự trẻ trung, năng động, sáng tạo và có trách nhiệm. Mục tiêu phát triển bền vững, minh bạch và hiện đại hóa dịch vụ tài chính. Cam kết đồng hành và phát triển cùng cộng đồng.",
+      "detail": "Mức lương hấp dẫn, xét tăng lương định kỳ, thưởng Lễ – Tết đầy đủ. Chính sách bảo hiểm y tế, bảo hiểm xã hội theo quy định. Môi trường làm việc chuyên nghiệp, hỗ trợ đào tạo và phát triển cá nhân. Có phòng gym, khu vực nghỉ ngơi, trà và cà phê miễn phí. Cơ hội thăng tiến rõ ràng và minh bạch."
+    },
+    {
+      "id": "2",
+      "companyName": "Công ty XYZ",
+      "phone": "0911223344",
+      "email": "info@xyz.vn",
+      "password": "xyz789",
+      "token": "XyZt0k3nVn2024",
+      "address": "456 đường Nguyễn Trãi",
+      "workingTime": "T2 - CN",
+      "website": "https://xyz.vn",
+      "quantityPeople": 20,
+      "description": "XYZ là công ty phần mềm chuyên cung cấp giải pháp công nghệ cho doanh nghiệp vừa và nhỏ. Với hơn 10 năm kinh nghiệm, chúng tôi đã hợp tác với hơn 300 khách hàng trong và ngoài nước. Sứ mệnh của chúng tôi là giúp doanh nghiệp vận hành hiệu quả thông qua công nghệ hiện đại. Đội ngũ lập trình viên tài năng, quy trình làm việc Agile linh hoạt. Luôn đặt chất lượng và trải nghiệm người dùng lên hàng đầu.",
+      "detail": "Công ty tổ chức training nội bộ và workshop kỹ năng mềm định kỳ. Chính sách bảo hiểm mở rộng cho cả nhân viên và người thân. Văn phòng hiện đại, trang thiết bị tiên tiến, làm việc linh hoạt. Du lịch team building mỗi năm, sinh nhật nhân viên, happy hour hàng tháng. Chính sách hỗ trợ học phí, chứng chỉ công nghệ quốc tế."
+    },
+    {
+      "id": "3",
+      "companyName": "Công ty DEF",
+      "phone": "0988776655",
+      "email": "hr@defcorp.com",
+      "password": "def@123",
+      "token": "dEfT0kEnSecure",
+      "address": "789 đường Lê Duẩn",
+      "workingTime": "T2 - T6",
+      "website": "https://defcorp.com",
+      "quantityPeople": 50,
+      "description": "DEF là công ty sản xuất thiết bị điện tử hàng đầu với công nghệ cao cấp. Chúng tôi đặt chất lượng sản phẩm và an toàn lên hàng đầu. Nhà máy đạt chuẩn ISO, quy trình kiểm soát chất lượng nghiêm ngặt. Hợp tác với các thương hiệu lớn trong nước và quốc tế. Luôn nỗ lực đổi mới sáng tạo để giữ vững vị thế dẫn đầu ngành.",
+      "detail": "Chính sách lương, thưởng hấp dẫn và công bằng. Hệ thống đào tạo chuyên môn và phát triển lãnh đạo. Khu sản xuất hiện đại, môi trường làm việc an toàn, sạch sẽ. Có ký túc xá và bữa ăn miễn phí cho công nhân viên. Được tham gia các hoạt động thiện nguyện, phong trào đoàn thể."
+    },
+    {
+      "id": "4",
+      "companyName": "Công ty GHI",
+      "phone": "0909090909",
+      "email": "contact@ghi.vn",
+      "password": "ghi456",
+      "token": "GhI2025Token",
+      "address": "12 đường Hai Bà Trưng",
+      "workingTime": "T2 - T7",
+      "website": "https://ghi.vn",
+      "quantityPeople": 15,
+      "description": "GHI là đơn vị tư vấn chiến lược và phát triển doanh nghiệp uy tín tại Việt Nam. Đội ngũ chuyên gia có kinh nghiệm sâu rộng trong nhiều lĩnh vực. Cam kết mang đến giải pháp phù hợp nhất với từng mô hình kinh doanh. Hướng tới xây dựng doanh nghiệp phát triển bền vững và linh hoạt. Luôn đặt lợi ích khách hàng làm trung tâm của mọi quyết định.",
+      "detail": "Môi trường làm việc chuyên nghiệp, sáng tạo và trách nhiệm. Hỗ trợ chi phí tham gia hội thảo, khóa học kỹ năng lãnh đạo. Chính sách nghỉ phép linh hoạt và hỗ trợ làm việc từ xa. Được tham gia các dự án thực tế cùng chuyên gia đầu ngành. Văn hóa công ty thân thiện, năng động và khuyến khích chia sẻ."
+    },
+    {
+      "id": "5",
+      "companyName": "Công ty JKL",
+      "phone": "0876543210",
+      "email": "support@jklgroup.com",
+      "password": "jkl999",
+      "token": "JKLT0k3nLongTerm",
+      "address": "99 đường Trường Chinh",
+      "workingTime": "T2 - T6",
+      "website": "https://jklgroup.com",
+      "quantityPeople": 35,
+      "description": "JKL là tập đoàn cung cấp giải pháp tài chính toàn diện cho doanh nghiệp. Chúng tôi hướng đến việc đơn giản hóa quy trình tài chính thông qua công nghệ. Đội ngũ nhân sự dày dạn kinh nghiệm, tư duy chiến lược. Không ngừng cải tiến dịch vụ để đáp ứng nhu cầu ngày càng cao. Xây dựng hệ sinh thái tài chính toàn diện, hiệu quả và minh bạch.",
+      "detail": "Thưởng quý theo hiệu suất, hỗ trợ tài chính khi gặp khó khăn. Gói bảo hiểm sức khỏe cao cấp cho nhân viên và gia đình. Văn phòng mở, khuyến khích trao đổi và hợp tác đa chiều. Hệ thống đánh giá năng lực minh bạch và công bằng. Chương trình mentorship và career coaching nội bộ."
+    },
+    {
+      "id": "6",
+      "companyName": "Công ty MNO",
+      "phone": "0844123456",
+      "email": "hello@mno.vn",
+      "password": "mno@secure",
+      "token": "MN0tok2025",
+      "address": "88 đường Phạm Văn Đồng",
+      "workingTime": "T2 - CN",
+      "website": "https://mno.vn",
+      "quantityPeople": 60,
+      "description": "MNO là hệ thống thương mại điện tử chuyên phân phối sản phẩm tiêu dùng nhanh. Với mạng lưới rộng khắp cả nước, chúng tôi phục vụ hàng triệu khách hàng mỗi tháng. Ứng dụng công nghệ AI và big data để cá nhân hóa trải nghiệm mua sắm. Cam kết giao hàng nhanh, chất lượng đảm bảo và dịch vụ tận tâm. Làm việc tại MNO là cơ hội để phát triển cùng ngành thương mại số.",
+      "detail": "Cơ chế KPI rõ ràng, thưởng doanh thu hàng tháng. Chính sách bảo hiểm mở rộng, hỗ trợ khám sức khỏe định kỳ. Văn hóa phục vụ khách hàng là trọng tâm. Văn phòng trẻ trung, làm việc nhóm cao, công cụ hiện đại. Tổ chức sinh nhật, liên hoan, team building mỗi quý."
+    }
+  ]
+}

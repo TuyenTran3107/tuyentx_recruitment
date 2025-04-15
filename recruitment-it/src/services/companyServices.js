@@ -1,4 +1,4 @@
-import { get, post } from "../utils/request";
+import { edit, get, post } from "../utils/request";
 
 export const login = async (email, password = "") => {
   let pw = "";
@@ -24,4 +24,7 @@ export const checkExist = async (key, value) => {
 export const createCompany = async (options) => {
   const result = await post("company", options);
   return result;
+}
+export const editCompany = async (id, options) => {
+  const res = await edit(`company/${id}`, options)
 }

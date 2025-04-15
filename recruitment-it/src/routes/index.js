@@ -14,6 +14,7 @@ import Dashboard from "../pages/Dashboard";
 import InfoCompany from "../pages/InfoCompany";
 import JobManage from "../pages/JobManage";
 import CVManage from "../pages/CVManage";
+import CreateJob from "../pages/JobManage/CreateJob";
 
 export const routes = [
   //Public
@@ -82,7 +83,7 @@ export const routes = [
           },
           {
             path: "create-job",
-            // element: <CreateJob />
+            element: <CreateJob />
           },
           {
             path: "detail-job/:id",

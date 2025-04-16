@@ -15,6 +15,7 @@ import InfoCompany from "../pages/InfoCompany";
 import JobManage from "../pages/JobManage";
 import CVManage from "../pages/CVManage";
 import CreateJob from "../pages/JobManage/CreateJob";
+import JobDetailAdmin from "../pages/JobManage/JobDetailAdmin";
 
 export const routes = [
   //Public
@@ -87,7 +88,7 @@ export const routes = [
           },
           {
             path: "detail-job/:id",
-            // element: <JobDetailAdmin />
+            element: <JobDetailAdmin />
           },
 
           {

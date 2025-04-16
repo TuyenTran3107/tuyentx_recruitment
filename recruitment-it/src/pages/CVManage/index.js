@@ -1,7 +1,10 @@
+import CVList from "./CVList";
+
 function CVManage() {
   return (
     <>
-      Page CVManage
+      <h2>Danh sách việc làm</h2>
+      <CVList className="mt-20" />
     </>
   )
 }

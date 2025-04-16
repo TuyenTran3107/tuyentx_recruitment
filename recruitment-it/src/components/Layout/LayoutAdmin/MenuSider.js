@@ -21,8 +21,8 @@ function MenuSider() {
         label: <Link to="/job-manage">Quản lý việc làm</Link>
       },
       {
-        key: '4',
-        label: <Link to="">Quản lý CV</Link>,
+        key: '/cv-manage',
+        label: <Link to="/cv-manage">Quản lý CV</Link>,
         icon: <ExceptionOutlined />
       }
     ]
